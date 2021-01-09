@@ -9,7 +9,8 @@ If there is something specific you are looking for, feel free to jump forward to
 - [Clubs, Orgs, Activities](#clubs-orgs-activities)
 - [Skills](#skills)
 - [Experience](#experience)
-- [Other Interesting Facts about Me!](#other-interesting-and-random-facts-about-me)
+- [Other Interesting (and Random) Facts about Me!](#other-interesting-and-random-facts-about-me)
+- [Some Future Goals](#some-future-goals)
 
 
 ## Education
@@ -106,7 +107,7 @@ I demonstrated passion while working with kids - organizing workshops, and teach
 
 ## Some Future Goals:
 
-- [ ] Complete my Computer Science Bachelor's Degree at USCD
-- [ ] Join another org at UCSD
-- [ ] Learn to speak/read/write in Korean at least semi-fluently
-- [ ] Join a musical group at UCSD
+ [ ] Complete my Computer Science Bachelor's Degree at USCD
+ [ ] Join another org at UCSD
+ [ ] Learn to speak/read/write in Korean at least semi-fluently
+ [ ] Join a musical group at UCSD
