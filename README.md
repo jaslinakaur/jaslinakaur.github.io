@@ -12,7 +12,7 @@ In the words of Stephen Hawking:
 
 > Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn
 
-[This is the UCSD Logo - the college I go to!](/UCSD Logo.png)
+![This is the UCSD Logo - the college I go to!](/UCSD Logo.png)
 * **B.S. in Computer Science** (plan to graduate June 2023) from UC San Diego
   GPA: 3.94
 * **Olympia High School**, Olympia WA
