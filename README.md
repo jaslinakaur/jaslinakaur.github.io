@@ -108,9 +108,9 @@ I demonstrated passion while working with kids - organizing workshops, and teach
 * I really like using Apple Products
 
 
-## Some Future Goals:
+### Some Future Goals:
 
-- ( ) Complete my Computer Science Bachelor's Degree at USCD
+- [ ] Complete my Computer Science Bachelor's Degree at USCD
 - [x] Get an internship for the Summer of 2021
 - [ ] Join another org at UCSD
 - [ ] Learn to speak/read/write in Korean at least semi-fluently
