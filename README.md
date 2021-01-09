@@ -3,11 +3,8 @@
 
 My name is Jaslina K Kochhar, and welcome to my about me page!
 I'm a self-driven, organized and passionate Computer Science student with excellent problem-solving skills, strong attention to detail, and extraordinary communication skills.
-If you are looking for my resume, you can find it [here](/JaslinaKochhar_CurrentResume.pdf)
+If you are looking for my resume, you can find it [here](/JaslinaKochhar_CurrentResume.pdf). This page contains a lot of the same content as my resume, so both are great ways to learn a bit about me.
 
-You can use the [editor on GitHub](https://github.com/jaslinakaur/jaslinakaur.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Education
 
@@ -15,9 +12,10 @@ In the words of Stephen Hawking:
 
 > Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn
 
-* B.S. in Computer Science (plan to graduate June 2023) from UC San Diego
+(/UCSD Logo.png)
+* **B.S. in Computer Science** (plan to graduate June 2023) from UC San Diego
   GPA: 3.94
-* Olympia High School, Olympia WA
+* **Olympia High School**, Olympia WA
   Graduated June 2019; GPA: 3.96, Honor Roll, Top 10% in Washington State, Kurtz & Blum Scholarship Essay Contest, Burger King Scholarship
 
 
@@ -27,9 +25,13 @@ In the words of Stephen Hawking:
 
 Here are some of the organizations I am a member of at UCSD:
 
-* Society of Women Engineers (SWE)
-* Women in Computing (WIC)
-* Sikh Student Association (SSA)
+* Society of Women Engineers **(SWE)**
+  - For more information on this organization, here is the current [website](https://swe.ucsd.edu/).
+  - I'm currently the lead on the SWE Website Redesign Project! We hope to be done with the redesign and have it avaiable to the public by the end of the year!
+  - I'm a member of the EDGE Outreach program planning board.
+* Women in Computing **(WIC)**
+  - For more information on this organization, here is the link to the [website](https://wic.ucsd.edu/).
+* Sikh Student Association **(SSA)**
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -78,9 +80,27 @@ I am also multilingual. I can communicate in:
 
 ## Experience
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- CSE 21 Tutor, UCSD (October 2020 - current)
+This is a Math/Algorithm & Systems Analysis class. It teaches Discrete Mathmatics.
+As a part of this job, I get to work with students by holding Office Hours, explaining CS and Math topics, and helping them understand the course content. I also get to grade work and learn the many differnt ways students might think about and express the same concept.
 
+- QA Intern, Twistle Inc (July – September 2020)
+I worked with and helped test Twistle's web application. This involved looking for and flagging any issues, bugs, or concerns I might have found. I also helped create a testing document for future testers to work with.
 
+- Medical Assistant (MA), Podiatry Associates (June – September 2020)
+I worked in a Podiatrist’s office: checking in and scheduling patient appointments at the front desk, seating patients in rooms and taking vitals, assisting Doctor with instruments, helping with any technical problems that might occur.
+
+- Anti-Defamation League (ADL) Intern (June 2020 - Current)
+I work with the Pacific Northwest Team on projects around hate incidents, voting, the census, and education of teachers and students about racial awareness and reducing prejudice. This includes creating flyers, infographics, summarizing documents, researching, and much more.
+I also Designed ADL Branded Voting Postcards to be sent to citizens nationally, reminding them to vote in Nov 2020 election.
+
+- Software Intern, Pixatel Systems (June – August 2017)
+I Created CSS stylesheets for rendering the screens for a Mobile application used for the company’s education platform. I learned to use HTML, CSS, Bootstrap, and JavaScript.
+
+- Volunteer, Khalsa Gurmat Center, Federal Way, WA (2014 – Current)
+I Designed and developed a student information system for the non-profit organization using HTML, CSS, Bootstrap, PHP & MySQL. I currently manage and support the site.
+I managed all backstage coordination for the Annual Gala held in 2018. This meant managing the screen displays, creating content that was projected for the event, working with the MC and the speakers, and managing the light and sound with the technicians.
+I demonstrated passion while working with kids - organizing workshops, and teaching history and music. Built caring relationships with the parents and students. Showed a strong work ethic and presentation skills.
 
 
 # Other Interesting Facts about Me!
