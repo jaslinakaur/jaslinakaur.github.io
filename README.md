@@ -9,7 +9,7 @@ If there is something specific you are looking for, feel free to jump forward to
 - [Clubs, Orgs, Activities](#clubs-orgs-activities)
 - [Skills](#skills)
 - [Experience](#experience)
-- [Other Interesting Facts about Me!](#other-interesting-facts-about-me)
+- [Other Interesting Facts about Me!](#other-interesting-and-random-facts-about-me)
 
 
 ## Education
@@ -31,17 +31,13 @@ In the words of Stephen Hawking:
 
 Here are some of the organizations I am a member of at UCSD:
 
-* Society of Women Engineers **(SWE)**
+* **Society of Women Engineers *(SWE)***
   - For more information on this organization, here is the current [website](https://swe.ucsd.edu/).
   - I'm currently the lead on the SWE Website Redesign Project! We hope to be done with the redesign and have it avaiable to the public by the end of the year!
   - I'm a member of the EDGE Outreach program planning board.
-* Women in Computing **(WIC)**
+* **Women in Computing *(WIC)***
   - For more information on this organization, here is the link to the [website](https://wic.ucsd.edu/).
-* Sikh Student Association **(SSA)**
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* **Sikh Student Association *(SSA)***
 
 
 
@@ -62,7 +58,7 @@ Over the course of my education, I've been exposed to various programming langua
 ```
 
 
-I am also multilingual. I can communicate in:
+I am also **multilingual**. I can communicate in:
 
 * English
 * Punjabi
@@ -96,4 +92,21 @@ I managed all backstage coordination for the Annual Gala held in 2018. This mean
 I demonstrated passion while working with kids - organizing workshops, and teaching history and music. Built caring relationships with the parents and students. Showed a strong work ethic and presentation skills.
 
 
-# Other Interesting Facts About Me!
+# Other Interesting (and Random) Facts About Me!
+
+> “Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.” - Albus Dumbledore
+
+* I am a huge fan of the Harry Potter Series by JK Rowling
+* I really like the k-pop group BTS
+* One of my favorite activities to do during my free time is baking and frosting cakes
+* I love music! I played piano for 8 years, have been playing the Harmonium for 15, and have been singing for as long as I can remember!
+* I come from a family of big-time Seattle Seahawks Fans!
+* I really like using Apple Products
+
+
+## Some Future Goals:
+
+- [ ] Complete my Computer Science Bachelor's Degree at USCD
+- [ ] Join another org at UCSD
+- [ ] Learn to speak/read/write in Korean at least semi-fluently
+- [ ] Join a musical group at UCSD
