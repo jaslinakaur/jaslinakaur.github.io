@@ -4,7 +4,7 @@
 My name is Jaslina K Kochhar, and welcome to my about me page!
 I'm a self-driven, organized and passionate Computer Science student with excellent problem-solving skills, strong attention to detail, and extraordinary communication skills.
 If you are looking for my resume, you can find it [here](/JaslinaKochhar_CurrentResume.pdf). This page contains a lot of the same content as my resume, so both are great ways to learn a bit about me.
-I also have a [linkedIn](https://www.linkedin.com/in/jaslina-kochhar-736858195/).
+I also have a [LinkedIn](https://www.linkedin.com/in/jaslina-kochhar-736858195/).
 Also, feel free to checkout at my [GitHub profile](https://github.com/jaslinakaur)! 
 
 If there is something specific you are looking for, feel free to jump forward to that section:
@@ -110,8 +110,8 @@ I demonstrated passion while working with kids - organizing workshops, and teach
 
 ## Some Future Goals:
 
-- [ ]Complete my Computer Science Bachelor's Degree at USCD
-- [x]Get an internship for the Summer of 2021
-- [ ]Join another org at UCSD
-- [ ]Learn to speak/read/write in Korean at least semi-fluently
-- [ ]Join a musical group at UCSD
+ - [ ] Complete my Computer Science Bachelor's Degree at USCD
+ - [x] Get an internship for the Summer of 2021
+ - [ ] Join another org at UCSD
+ - [ ] Learn to speak/read/write in Korean at least semi-fluently
+ - [ ] Join a musical group at UCSD
