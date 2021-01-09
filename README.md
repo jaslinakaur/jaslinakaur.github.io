@@ -106,7 +106,7 @@ I demonstrated passion while working with kids - organizing workshops, and teach
 * I love music! I played piano for 8 years, have been playing the Harmonium for 15, and have been singing for as long as I can remember!
 * I really like using Apple Products
 * I come from a family of big-time Seattle Seahawks Fans!
-![This is an image of the Seattle Seahawks logo!](/seahawks.png)
+![This is an image of the Seattle Seahawks logo!](/seahawks_logo.png)
 
 
 
