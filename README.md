@@ -73,24 +73,24 @@ I am also multilingual. I can communicate in:
 
 ## Experience
 
-- CSE 21 Tutor, UCSD (October 2020 - current)
+- **CSE 21 Tutor, UCSD *(October 2020 - current)***
 This is a Math/Algorithm & Systems Analysis class. It teaches Discrete Mathmatics.
 As a part of this job, I get to work with students by holding Office Hours, explaining CS and Math topics, and helping them understand the course content. I also get to grade work and learn the many differnt ways students might think about and express the same concept.
 
-- QA Intern, Twistle Inc (July – September 2020)
+- **QA Intern, Twistle Inc *(July – September 2020)***
 I worked with and helped test Twistle's web application. This involved looking for and flagging any issues, bugs, or concerns I might have found. I also helped create a testing document for future testers to work with.
 
-- Medical Assistant (MA), Podiatry Associates (June – September 2020)
+- **Medical Assistant (MA), Podiatry Associates *(June – September 2020)***
 I worked in a Podiatrist’s office: checking in and scheduling patient appointments at the front desk, seating patients in rooms and taking vitals, assisting Doctor with instruments, helping with any technical problems that might occur.
 
-- Anti-Defamation League (ADL) Intern (June 2020 - Current)
+- **Anti-Defamation League (ADL) Intern *(June 2020 - Current)***
 I work with the Pacific Northwest Team on projects around hate incidents, voting, the census, and education of teachers and students about racial awareness and reducing prejudice. This includes creating flyers, infographics, summarizing documents, researching, and much more.
 I also Designed ADL Branded Voting Postcards to be sent to citizens nationally, reminding them to vote in Nov 2020 election.
 
-- Software Intern, Pixatel Systems (June – August 2017)
+- **Software Intern, Pixatel Systems *(June – August 2017)***
 I Created CSS stylesheets for rendering the screens for a Mobile application used for the company’s education platform. I learned to use HTML, CSS, Bootstrap, and JavaScript.
 
-- Volunteer, Khalsa Gurmat Center, Federal Way, WA (2014 – Current)
+- **Volunteer, Khalsa Gurmat Center, Federal Way, WA *(2014 – Current)***
 I Designed and developed a student information system for the non-profit organization using HTML, CSS, Bootstrap, PHP & MySQL. I currently manage and support the site.
 I managed all backstage coordination for the Annual Gala held in 2018. This meant managing the screen displays, creating content that was projected for the event, working with the MC and the speakers, and managing the light and sound with the technicians.
 I demonstrated passion while working with kids - organizing workshops, and teaching history and music. Built caring relationships with the parents and students. Showed a strong work ethic and presentation skills.
