@@ -33,25 +33,7 @@ Here are some of the organizations I am a member of at UCSD:
   - For more information on this organization, here is the link to the [website](https://wic.ucsd.edu/).
 * Sikh Student Association **(SSA)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -61,6 +43,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Over the course of my education, I've been exposed to various programming languages. Here is a list of the languages I have previously worked with:
 
+```markdown
+
 * Java
 * C++
 * C
@@ -68,6 +52,9 @@ Over the course of my education, I've been exposed to various programming langua
 * Arm Assembly
 * PHP
 * HTML/CSS/Javascript
+
+```
+
 
 I am also multilingual. I can communicate in:
 
