@@ -100,12 +100,14 @@ I demonstrated passion while working with kids - organizing workshops, and teach
 
 > “Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.” - Albus Dumbledore
 
-* I am a huge fan of the Harry Potter Series by JK Rowling
+* I am a huge fan of the Harry Potter Series by JK Rowling (hence the quote above)
 * I really like the k-pop group BTS
 * One of my favorite activities to do during my free time is baking and frosting cakes
 * I love music! I played piano for 8 years, have been playing the Harmonium for 15, and have been singing for as long as I can remember!
-* I come from a family of big-time Seattle Seahawks Fans!
 * I really like using Apple Products
+* I come from a family of big-time Seattle Seahawks Fans!
+![This is an image of the Seattle Seahawks logo](/seahawks.png)
+
 
 
 ## Some Future Goals:
