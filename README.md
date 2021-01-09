@@ -107,7 +107,7 @@ I demonstrated passion while working with kids - organizing workshops, and teach
 
 ## Some Future Goals:
 
- [ ] Complete my Computer Science Bachelor's Degree at USCD
- [ ] Join another org at UCSD
- [ ] Learn to speak/read/write in Korean at least semi-fluently
- [ ] Join a musical group at UCSD
+- [ ] Complete my Computer Science Bachelor's Degree at USCD
+- [ ] Join another org at UCSD
+- [ ] Learn to speak/read/write in Korean at least semi-fluently
+- [ ] Join a musical group at UCSD
