@@ -1,8 +1,9 @@
 # Introduction
 
+
 My name is Jaslina K Kochhar, and welcome to my about me page!
 I'm a self-driven, organized and passionate Computer Science student with excellent problem-solving skills, strong attention to detail, and extraordinary communication skills.
-If you are looking for my resume, you can find it here:
+If you are looking for my resume, you can find it [here](/JaslinaKochhar_CurrentResume.pdf)
 
 You can use the [editor on GitHub](https://github.com/jaslinakaur/jaslinakaur.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -14,13 +15,21 @@ In the words of Stephen Hawking:
 
 > Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn
 
-[Favorite Tools](http://tools.com)
-
+* B.S. in Computer Science (plan to graduate June 2023) from UC San Diego
+  GPA: 3.94
+* Olympia High School, Olympia WA
+  Graduated June 2019; GPA: 3.96, Honor Roll, Top 10% in Washington State, Kurtz & Blum Scholarship Essay Contest, Burger King Scholarship
 
 
 
 
 ## Clubs, Orgs, Activities
+
+Here are some of the organizations I am a member of at UCSD:
+
+* Society of Women Engineers (SWE)
+* Women in Computing (WIC)
+* Sikh Student Association (SSA)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -44,13 +53,34 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+
+
 ## Skills
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaslinakaur/jaslinakaur.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Over the course of my education, I've been exposed to various programming languages. Here is a list of the languages I have previously worked with:
+
+* Java
+* C++
+* C
+* Python
+* Arm Assembly
+* PHP
+* HTML/CSS/Javascript
+
+I am also multilingual. I can communicate in:
+
+* English
+* Punjabi
+* some Hindi and Spanish
+
+
+
 
 ## Experience
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
 
 
 # Other Interesting Facts about Me!
