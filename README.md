@@ -1,9 +1,15 @@
-# Introduction
 
+# Introduction
 
 My name is Jaslina K Kochhar, and welcome to my about me page!
 I'm a self-driven, organized and passionate Computer Science student with excellent problem-solving skills, strong attention to detail, and extraordinary communication skills.
 If you are looking for my resume, you can find it [here](/JaslinaKochhar_CurrentResume.pdf). This page contains a lot of the same content as my resume, so both are great ways to learn a bit about me.
+If there is something specific you are looking for, feel free to jump forward to that section:
+[Education](#education)
+[Clubs, Orgs, Activities](#clubs,-orgs,-activities)
+[Skills](#skills)
+[Experience](#experience)
+[Other Interesting Facts about Me!](#other-interesting-facts-about-me!)
 
 
 ## Education
@@ -90,4 +96,4 @@ I managed all backstage coordination for the Annual Gala held in 2018. This mean
 I demonstrated passion while working with kids - organizing workshops, and teaching history and music. Built caring relationships with the parents and students. Showed a strong work ethic and presentation skills.
 
 
-# Other Interesting Facts about Me!
+# Other Interesting Facts About Me!
