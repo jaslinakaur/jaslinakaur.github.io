@@ -1,10 +1,18 @@
 # Introduction
 
+My name is Jaslina K Kochhar, and welcome to my about me page!
+I'm a self-driven, organized and passionate Computer Science student with excellent problem-solving skills, strong attention to detail, and extraordinary communication skills.
+If you are looking for my resume, you can find it here:
+
 You can use the [editor on GitHub](https://github.com/jaslinakaur/jaslinakaur.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Education
+
+In the words of Stephen Hawking:
+
+> Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn
 
 [Favorite Tools](http://tools.com)
 
